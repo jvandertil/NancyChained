@@ -1,0 +1,18 @@
+source https://www.nuget.org/api/v2
+
+// Build
+nuget FAKE
+
+// Nancy
+nuget Nancy
+
+// Testing
+nuget Fixie version_in_path: true
+nuget Shouldly
+
+nuget Nancy.Owin
+
+nuget OwinHttpMessageHandler
+nuget Microsoft.Owin.Hosting
+
+nuget Newtonsoft.Json

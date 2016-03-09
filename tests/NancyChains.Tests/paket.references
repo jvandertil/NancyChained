@@ -1,0 +1,12 @@
+Nancy
+
+Fixie
+Shouldly
+
+Owin
+Microsoft.Owin.Hosting
+
+Nancy.Owin
+OwinHttpMessageHandler
+
+Newtonsoft.Json
